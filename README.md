@@ -1,7 +1,9 @@
-# AI Chatbox
+# AI Chatbox using Vercel AI, RagChat from Upstash.
 
 ### Image Preview:
-![image](https://github.com/user-attachments/assets/4e204475-90bc-4643-875d-f6540c86e246)
+<kbd>
+    <img src="https://github.com/user-attachments/assets/4e204475-90bc-4643-875d-f6540c86e246" />
+</kbd>
 
 ## Description:
 
