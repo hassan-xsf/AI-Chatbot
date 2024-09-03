@@ -1,6 +1,11 @@
 # AI Chatbox
 
-This project is a simple AI chatbox built using RagChat from Upstash and Vercel AI. The chatbox leverages the Meta LLAMA model for generating responses. The implementation integrates Upstash RAGChat for efficient chat history management and session handling.
+### Image Preview:
+![image](https://github.com/user-attachments/assets/4e204475-90bc-4643-875d-f6540c86e246)
+
+##Description:
+
+This project is a simple AI chatbox built using RagChat from Upstash and Vercel AI. The chatbox leverages the Meta LLAMA model for generating streamed responses. The implementation integrates Upstash RAGChat for efficient chat history management and session handling.
 
 Key Features:
 - Utilizes Meta LLAMA model for AI responses.
