@@ -1,4 +1,4 @@
-# AI Chatbox using Vercel AI, RagChat from Upstash.
+# AI Chatbox using NextJS 14 , Vercel AI, RagChat from Upstash.
 
 ### Image Preview:
 <kbd>
